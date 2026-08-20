@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "feat: estrutura inicial do NutriPlanner"
+git branch -M main
+git remote add origin SEU_REPOSITORIO
+git push -u origin main
